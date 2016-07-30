@@ -1,0 +1,122 @@
+Cmp-Mod V01 Created by CvPcb (2013-may-18)-stable date = Mon 10 Feb 2014 10:39:24 AM PST
+
+BeginCmp
+TimeStamp = /52F7C1B5;
+Reference = BT1;
+ValeurCmp = BATTERY;
+IdModule  = CR2032;
+EndCmp
+
+BeginCmp
+TimeStamp = /52F7C928;
+Reference = CON1;
+ValeurCmp = AVR-ISP-6-DR;
+IdModule  = AVR-ISP-6-DR;
+EndCmp
+
+BeginCmp
+TimeStamp = /52F91AB7;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = SM0603_DR;
+EndCmp
+
+BeginCmp
+TimeStamp = /52F91AC4;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = SM0603_DR;
+EndCmp
+
+BeginCmp
+TimeStamp = /52F7BB28;
+Reference = IC1;
+ValeurCmp = ATTINY2313-S;
+IdModule  = SO20L;
+EndCmp
+
+BeginCmp
+TimeStamp = /52F7C103;
+Reference = R1;
+ValeurCmp = 200;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /52F7C11C;
+Reference = R2;
+ValeurCmp = 1K;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /52F7C110;
+Reference = R3;
+ValeurCmp = 200;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /52F7C116;
+Reference = R4;
+ValeurCmp = 200;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /52F91AF7;
+Reference = R5;
+ValeurCmp = 200;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /52F91AFD;
+Reference = R6;
+ValeurCmp = 200;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /52F91E83;
+Reference = RGBL1;
+ValeurCmp = RGB_LED;
+IdModule  = RGB_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = /52F7BEA9;
+Reference = SW1;
+ValeurCmp = ON/OFF;
+IdModule  = SW_SPDT_DR;
+EndCmp
+
+BeginCmp
+TimeStamp = /52F7BEB6;
+Reference = SW2;
+ValeurCmp = BASIS;
+IdModule  = SW_SPDT_DR;
+EndCmp
+
+BeginCmp
+TimeStamp = /52F7BD5A;
+Reference = SW3;
+ValeurCmp = DOWN;
+IdModule  = SW_TACT;
+EndCmp
+
+BeginCmp
+TimeStamp = /52F7BD69;
+Reference = SW4;
+ValeurCmp = RANDOM;
+IdModule  = SW_TACT;
+EndCmp
+
+BeginCmp
+TimeStamp = /52F7BD6F;
+Reference = SW5;
+ValeurCmp = UP;
+IdModule  = SW_TACT;
+EndCmp
+
+EndListe
